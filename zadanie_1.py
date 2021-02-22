@@ -67,6 +67,11 @@ rozdzielenie = tekst.split()
 print(rozdzielenie)
 
 #zad9
-
+string = "Hello"
+print(string)
+T = float(16)
+print(T)
+numer = 540
+print(numer,"w szesnastkowym to:",hex(numer))
 
 
