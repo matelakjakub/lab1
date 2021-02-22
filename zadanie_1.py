@@ -43,5 +43,30 @@ print(j)
 #zad 4
 obl1 = pow(e,10)
 print(obl1)
-obl2 = pow(ln(5+pow(sin,2)*8),1/6)
-print(obl2)
+
+
+#zad 5
+imie = "JAKUB"
+imie1=imie.capitalize()
+nazwisko = "MATELAK"
+nazwisko1 = nazwisko.capitalize()
+print(imie1,nazwisko1)
+
+#zad6
+
+tekst = 'Im blue Da ba dee da ba di Da ba dee da ba di Da ba dee da ba di Da ba dee da ba di'
+zliczenie = tekst.count("dee")
+print("W tekście słowo 'dee' występuje tyle razy: ", zliczenie)
+
+#zad7
+imie= 'Aleksandra'
+print("Druga i ostatnia litera to: ",imie[1],",",imie[9])
+
+#zad8
+rozdzielenie = tekst.split()
+print(rozdzielenie)
+
+#zad9
+
+
+
