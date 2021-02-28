@@ -43,6 +43,11 @@ print(j)
 #zad 4
 obl1 = pow(e,10)
 print(obl1)
+obl2=floor(3.55)
+print(obl2)
+obl3=ceil(4.80)
+print(obl3)
+
 
 
 #zad 5

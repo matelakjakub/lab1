@@ -1,3 +1,6 @@
+from math import *
+
+
 a= 10
 b= 5
 c= 2
@@ -14,3 +17,13 @@ print(dodawanie)
 print(dzielenie_calkowite)
 print(potegowanie)
 
+potega = pow(b,c)
+print(potega)
+
+pierwiastek = sqrt(64)
+print(pierwiastek)
+
+print(pi)
+print(round(pi))
+a+=2
+print(a)
